@@ -23,7 +23,7 @@
           <dt>Price</dt>
           <dd><%= @product.price %></dd>
           <dt>Overall Rating</dt>
-          <dd><%= @product.reviews.average(:rating) || 'N/A'%></dd>
+          <dd><%= number_with_precision(@product.reviews.average(:rating), precision: 1)|| 'N/A'%></dd>
         </dl>
       </div>
     </div>
