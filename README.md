@@ -28,4 +28,4 @@ Jungle is an e-commerce web application which allows store owners to update prod
 ### Project Screenshots
 ![picture alt](https://raw.github.com/sadooghi/jungle-rails/master/screenshot/all-products.png "main_page")
 ![picture alt](https://raw.github.com/sadooghi/jungle-rails/master/screenshot/one_product.png "each_product_page")
-![picture alt](https://raw.github.com/sadooghi/jungle-rails/master/screenshot/Admin_products.png "admin_page")
+![picture alt](https://raw.githubusercontent.com/sadooghi/jungle-rails/master/screenshot/Admin-products.png "admin_page")
